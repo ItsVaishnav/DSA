@@ -1,0 +1,3 @@
+Time Complexicity : 
+Best Case : O(nlogn)
+Wrost Case : O(n^2)    // This will only when the array is already sorted
